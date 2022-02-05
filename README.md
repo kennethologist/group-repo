@@ -4,10 +4,10 @@
 ![Fintech-Future](fintech.jpg)
 
 ### Table of Contents
-<ul>
-<li>[Topic 1](http://github.com)</li>
-<li>[Topic 2](http://github.com)</li>
-<li>[Topic 3](http://github.com)</li>
-<li>[Topic 4](http://github.com)</li>
-<li>[Topic 5](http://github.com)</li>
-</ul>
+
+[Topic 1](http://github.com)
+[Topic 2](http://github.com)
+[Topic 3](http://github.com)
+[Topic 4](http://github.com)
+[Topic 5](http://github.com)
+
